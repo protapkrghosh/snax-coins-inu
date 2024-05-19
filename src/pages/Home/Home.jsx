@@ -2,17 +2,21 @@ import AboutOrFeatures from '@/components/Sections/AboutOrFeatures/AboutOrFeatur
 import Banner from '@/components/Sections/Banner/Banner';
 import MemeGenerator from '@/components/Sections/MemeGenerator/MemeGenerator';
 import OurWayMoon from '@/components/Sections/OurWayMoon/OurWayMoon';
+import SideMenu from '@/components/Sections/SideMenu/SideMenu';
 import TokenInformation from '@/components/Sections/TokenInformation/TokenInformation';
 
 const Home = () => {
   return (
-    <div>
+    <>
+      <div className='sticky z-50 top-0'>
+        <SideMenu />
+      </div>
       <Banner />
       <AboutOrFeatures />
       <TokenInformation />
       <MemeGenerator />
       <OurWayMoon />
-    </div>
+    </>
   );
 };
 
