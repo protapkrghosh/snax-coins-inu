@@ -24,6 +24,12 @@ body {
   backdrop-filter: blur(15px);
 }
 
+.sideMenu {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 6.5vh;
+}
+
 /* Token Information */
 .textStroke {
   -webkit-text-stroke-width: 2px;
