@@ -8,7 +8,7 @@ import TokenInformation from '@/components/Sections/TokenInformation/TokenInform
 const Home = () => {
   return (
     <>
-      <div className='sticky z-50 top-0'>
+      <div className='sticky z-50 -top-32 md:-top-32 lg:-top-32 xl:-top-32 2xl:-top-10'>
         <SideMenu />
       </div>
       <Banner />

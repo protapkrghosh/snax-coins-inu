@@ -24,6 +24,12 @@ body {
   backdrop-filter: blur(15px);
 }
 
+.cusBorder {
+  border-radius: 210px;
+  /* background: linear-gradient(270deg, rgba(248, 180, 21, 0.13) 0%, rgba(15, 193, 199, 0.13) 100%); */
+  backdrop-filter: blur(20px);
+}
+
 /* Token Information */
 .textStroke {
   -webkit-text-stroke-width: 2px;
