@@ -1,5 +1,6 @@
 import AboutOrFeatures from '@/components/Sections/AboutOrFeatures/AboutOrFeatures';
 import Banner from '@/components/Sections/Banner/Banner';
+import HowToBuy from '@/components/Sections/HowToBuy/HowToBuy';
 import MemeGenerator from '@/components/Sections/MemeGenerator/MemeGenerator';
 import OurWayMoon from '@/components/Sections/OurWayMoon/OurWayMoon';
 import SideMenu from '@/components/Sections/SideMenu/SideMenu';
@@ -14,6 +15,7 @@ const Home = () => {
       <Banner />
       <AboutOrFeatures />
       <TokenInformation />
+      <HowToBuy />
       <MemeGenerator />
       <OurWayMoon />
     </>
