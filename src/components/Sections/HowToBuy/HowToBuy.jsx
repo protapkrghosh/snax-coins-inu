@@ -7,21 +7,21 @@ import cardImageShadow from '@/assets/howToBuy/Group 1171275247.png';
 
 const HowToBuy = () => {
   return (
-    <div className='2xl:mt-[248px] xl:mt-[220px] lg:mt-[160px]'>
+    <div className='2xl:mt-[248px] xl:mt-[220px] lg:mt-[160px] md:mt-[90px] mt-[60px] 2xl:mb-[170px]'>
       <div className='relative'>
         <Container>
 
           {/* ------ title section ----------- */}
           <div>
-            <h1 className='text-[#FFF] text-center xl:text-[80px] lg:text-[60px] lg:leading-[88px] lg:tracking-[2.4px]' data-aos="fade-up"
+            <h1 className='text-[#FFF] text-center xl:text-[80px] lg:text-[60px] md:text-[45px] text-[30px] lg:leading-[88px] lg:tracking-[2.4px]' data-aos="fade-up"
               data-aos-duration="900">How to <span className='bg-clip-text text-transparent bg-gradient-to-l from-[#F8B515] to-[#0FC1C7]' data-aos="fade-up"
                 data-aos-duration="900">buy?</span></h1>
-            <img className='absolute 2xl:w-auto xl:w-auto lg:w-[25%] 2xl:top-[-40px] xl:top-[-40px] lg:top-[-35px] 2xl:left-[610px] xl:left-[340px] lg:left-[205px]' src={claud} alt="image" />
+            <img className='absolute 2xl:w-auto xl:w-auto lg:w-[25%] md:w-[20%] 2xl:top-[-40px] xl:top-[-40px] lg:top-[-35px] md:top-[-10px] 2xl:left-[610px] xl:left-[340px] lg:left-[205px] md:left-[195px]' src={claud} alt="image" />
           </div>
 
 
           {/* ------------ contain section -------------- */}
-          <div className='2xl:mt-[85px] xl:mt-[85px] lg:mt-[80px]'>
+          <div className='2xl:mt-[85px] xl:mt-[85px] lg:mt-[80px] md:mt-[60px] mt-[50px]'>
 
             {/* ----------- card 1 --------- */}
             <div className='2xl:ml-[4px] xl:ml-[4px] lg:ml-[4px] 2xl:space-y-[-10px] xl:space-y-[-10px] lg:space-y-[-10px]' data-aos="fade-up"
