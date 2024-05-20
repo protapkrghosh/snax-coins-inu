@@ -36,13 +36,13 @@ const HowToBuy = () => {
               </div>
               {/* card shadow image  */}
               <div>
-                <img className='2xl:mt-[-220px] xl:mt-[-185px] lg:mt-[-185px] 2xl:ml-[410px] xl:ml-[290px] lg:ml-[290px] 2xl:w-auto xl:w-[16%] lg:w-[16%]' src={cardImageShadow} alt="image" />
+                <img className='2xl:mt-[-220px] xl:mt-[-185px] lg:mt-[-140px] 2xl:ml-[440px] xl:ml-[290px] lg:ml-[225px] 2xl:w-auto xl:w-[16%] lg:w-[16%]' src={cardImageShadow} alt="image" />
               </div>
 
             </div>
 
             {/* ----------- card 2 --------- */}
-            <div className='2xl:mt-[-170px] xl:mt-[-110px] lg:mt-[-110px] 2xl:ml-[860px] xl:ml-[660px] lg:ml-[660px] 2xl:space-y-[-10px] xl:space-y-[-10px] lg:space-y-[-10px]' data-aos="fade-up"
+            <div className='2xl:mt-[-170px] xl:mt-[-110px] lg:mt-[-110px] 2xl:ml-[860px] xl:ml-[660px] lg:ml-[520px] 2xl:space-y-[-10px] xl:space-y-[-10px] lg:space-y-[-10px]' data-aos="fade-up"
               data-aos-duration="1600">
               <img className='2xl:ml-[240px] xl:ml-[240px] lg:ml-[240px] 2xl:w-auto xl:w-[24%] lg:w-[24%]' src={cardImage} alt="image" />
 
@@ -54,7 +54,7 @@ const HowToBuy = () => {
               </div>
               {/* card shadow image  */}
               <div>
-                <img className='2xl:mt-[-220px] xl:mt-[-220px] lg:mt-[-220px] 2xl:ml-[415px] xl:ml-[255px] lg:ml-[255px] 2xl:w-auto xl:w-auto lg:w-auto' src={cardImageShadow} alt="image" />
+                <img className='2xl:mt-[-220px] xl:mt-[-220px] lg:mt-[-185px] 2xl:ml-[415px] xl:ml-[280px] lg:ml-[190px] 2xl:w-auto xl:w-auto lg:w-[50%]' src={cardImageShadow} alt="image" />
               </div>
 
             </div>
@@ -62,7 +62,7 @@ const HowToBuy = () => {
 
 
             {/* ---------------- main images ---------------- */}
-            <div className='2xl:mt-[-540px] xl:mt-[-440px] lg:mt-[-440px]' data-aos="fade-up"
+            <div className='hidden lg:block 2xl:mt-[-540px] xl:mt-[-440px] lg:mt-[-330px]' data-aos="fade-up"
               data-aos-duration="2000">
               <img className='mx-auto 2xl:pl-[15px] 2xl:w-[50%] xl:w-[50%] lg:w-[50%]' src={howToImg} alt="image" />
             </div>
@@ -70,9 +70,8 @@ const HowToBuy = () => {
 
 
 
-
             {/* ----------- card 3 --------- */}
-            <div className='2xl:mt-[-830px] xl:mt-[-630px] lg:mt-[-630px] 2xl:ml-[4px] xl:ml-[4px] lg:ml-[4px] 2xl:space-y-[-10px] xl:space-y-[-10px] lg:space-y-[-10px]' data-aos="fade-up"
+            <div className='2xl:mt-[-830px] xl:mt-[-630px] lg:mt-[-500px] 2xl:ml-[4px] xl:ml-[4px] lg:ml-[4px] 2xl:space-y-[-10px] xl:space-y-[-10px] lg:space-y-[-10px]' data-aos="fade-up"
               data-aos-duration="2000">
               <img className='2xl:ml-[240px] xl:ml-[240px] lg:ml-[240px] 2xl:w-auto xl:w-[10%] lg:w-[10%]' src={cardImage} alt="image" />
 
@@ -84,7 +83,7 @@ const HowToBuy = () => {
               </div>
               {/* card shadow image  */}
               <div>
-                <img className='2xl:mt-[-220px] xl:mt-[-250px] lg:mt-[-250px] 2xl:ml-[440px] xl:ml-[230px] lg:ml-[230px] 2xl:w-auto xl:w-[22%] lg:w-[22%]' src={cardImageShadow} alt="image" />
+                <img className='2xl:mt-[-220px] xl:mt-[-250px] lg:mt-[-196px] 2xl:ml-[440px] xl:ml-[230px] lg:ml-[180px] 2xl:w-auto xl:w-[22%] lg:w-[22%]' src={cardImageShadow} alt="image" />
               </div>
 
             </div>
@@ -94,7 +93,7 @@ const HowToBuy = () => {
 
 
             {/* ----------- card 4 --------- */}
-            <div className='2xl:mt-[-170px] xl:mt-[-170px] lg:mt-[-170px] 2xl:ml-[860px] xl:ml-[660px] lg:ml-[660px] 2xl:space-y-[-10px] xl:space-y-[-10px] lg:space-y-[-10px]' data-aos="fade-up"
+            <div className='2xl:mt-[-170px] xl:mt-[-170px] lg:mt-[-190px] 2xl:ml-[860px] xl:ml-[660px] lg:ml-[520px] 2xl:space-y-[-10px] xl:space-y-[-10px] lg:space-y-[-10px]' data-aos="fade-up"
               data-aos-duration="2400">
               <img className='2xl:ml-[240px] xl:ml-[240px] lg:ml-[240px] 2xl:w-auto xl:w-auto lg:w-auto' src={cardImage} alt="image" />
 
@@ -106,10 +105,13 @@ const HowToBuy = () => {
               </div>
               {/* card shadow image  */}
               <div>
-                <img className='2xl:mt-[-220px] xl:mt-[-220px] lg:mt-[-220px] 2xl:ml-[415px] xl:ml-[290px] lg:ml-[290px] 2xl:w-auto xl:w-auto lg:w-auto' src={cardImageShadow} alt="image" />
+                <img className='2xl:mt-[-220px] xl:mt-[-220px] lg:mt-[-150px] 2xl:ml-[415px] xl:ml-[285px] lg:ml-[220px] 2xl:w-auto xl:w-auto lg:w-[40%]' src={cardImageShadow} alt="image" />
               </div>
 
             </div>
+
+
+
 
 
 
