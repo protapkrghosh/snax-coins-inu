@@ -62,7 +62,8 @@ const HowToBuy = () => {
 
 
             {/* ---------------- main images ---------------- */}
-            <div className='2xl:mt-[-540px] xl:mt-[-440px] lg:mt-[-440px]'>
+            <div className='2xl:mt-[-540px] xl:mt-[-440px] lg:mt-[-440px]' data-aos="fade-up"
+              data-aos-duration="2000">
               <img className='mx-auto 2xl:pl-[15px] 2xl:w-[50%] xl:w-[50%] lg:w-[50%]' src={howToImg} alt="image" />
             </div>
 
