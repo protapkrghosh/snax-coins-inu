@@ -4,6 +4,7 @@ import howToImg from '@/assets/howToBuy/Group 1171275272.png';
 import claud from '@/assets/meme-Ge4nerator/Group 1171275247.png';
 import cardImage from '@/assets/howToBuy/logo_short_no_bg_square.png';
 import cardImageShadow from '@/assets/howToBuy/Group 1171275247.png';
+import howToTree from '@/assets/howToBuy/Group 1171275261.png';
 
 const HowToBuy = () => {
   return (
@@ -17,6 +18,10 @@ const HowToBuy = () => {
               data-aos-duration="900">How to <span className='bg-clip-text text-transparent bg-gradient-to-l from-[#F8B515] to-[#0FC1C7]' data-aos="fade-up"
                 data-aos-duration="900">buy?</span></h1>
             <img className='absolute 2xl:w-auto xl:w-auto lg:w-[25%] md:w-[20%] w-[20%] 2xl:top-[-40px] xl:top-[-40px] lg:top-[-35px] md:top-[-10px] top-[1px] 2xl:left-[610px] xl:left-[340px] lg:left-[205px] md:left-[195px] left-[100px]' src={claud} alt="image" />
+
+            {/* tree img  */}
+            <img className='absolute 2xl:mt-[-185px] xl:mt-[-155px] lg:mt-[-110px] md:mt-[-75px] mt-[-45px] 2xl:ml-[1040px] xl:ml-[850px] lg:ml-[650px] md:ml-[490px] ml-[290px] 2xl:w-auto xl:w-[12%] lg:w-[11%] md:w-[10%] w-[10%]' src={howToTree} alt="image" />
+
           </div>
 
 
