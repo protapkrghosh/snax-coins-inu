@@ -26,7 +26,7 @@ const HowToBuy = () => {
             {/* ----------- card 1 --------- */}
             <div className='2xl:ml-[4px] xl:ml-[4px] lg:ml-[4px] 2xl:space-y-[-10px] xl:space-y-[-10px] lg:space-y-[-10px]' data-aos="fade-up"
               data-aos-duration="1200">
-              <img className='2xl:ml-[240px] xl:ml-[240px] lg:ml-[240px] mx-auto 2xl:w-auto xl:w-[10%] lg:w-[10%] md:w-[20%] w-[18%]' src={cardImage} alt="image" />
+              <img className='2xl:ml-[240px] xl:ml-[190px] lg:ml-[148px] mx-auto 2xl:w-auto xl:w-[10%] lg:w-[10%] md:w-[20%] w-[18%]' src={cardImage} alt="image" />
 
               <div className='2xl:w-[44%] xl:w-[41%] lg:w-[41%] md:w-[80%] p-[1px] bg-gradient-to-l from-[#F8B515] to-[#0FC1C7] lg:mx-0 md:mx-auto rounded-[30px] w-fit'>
                 <div className='bg-[#18534f] 2xl:p-[40px] xl:p-[30px] lg:p-[20px] md:p-[30px] p-[20px] rounded-[30px]'>
@@ -44,7 +44,7 @@ const HowToBuy = () => {
             {/* ----------- card 2 --------- */}
             <div className='2xl:mt-[-170px] xl:mt-[-110px] lg:mt-[-110px] md:mt-[50px] mt-[40px] 2xl:ml-[860px] xl:ml-[660px] lg:ml-[520px] 2xl:space-y-[-10px] xl:space-y-[-10px] lg:space-y-[-10px]' data-aos="fade-up"
               data-aos-duration="1600">
-              <img className='2xl:ml-[240px] xl:ml-[240px] lg:ml-[240px] mx-auto 2xl:w-auto xl:w-[24%] lg:w-[24%] md:w-[20%] w-[18%]' src={cardImage} alt="image" />
+              <img className='2xl:ml-[240px] xl:ml-[185px] lg:ml-[145px] mx-auto 2xl:w-auto xl:w-[24%] lg:w-[24%] md:w-[20%] w-[18%]' src={cardImage} alt="image" />
 
               <div className='2xl:w-[100%] xl:w-[99%] lg:w-[99%] md:w-[80%] p-[1px] bg-gradient-to-l from-[#F8B515] to-[#0FC1C7] lg:mx-0 md:mx-auto rounded-[30px] w-fit'>
                 <div className='bg-[#18534f] 2xl:p-[40px] xl:p-[30px] lg:p-[20px] rounded-[30px] md:p-[30px] p-[20px]'>
@@ -73,7 +73,7 @@ const HowToBuy = () => {
             {/* ----------- card 3 --------- */}
             <div className='2xl:mt-[-830px] xl:mt-[-630px] lg:mt-[-500px] md:mt-[50px] mt-[40px] 2xl:ml-[4px] xl:ml-[4px] lg:ml-[4px] 2xl:space-y-[-10px] xl:space-y-[-10px] lg:space-y-[-10px]' data-aos="fade-up"
               data-aos-duration="2000">
-              <img className='2xl:ml-[240px] xl:ml-[240px] lg:ml-[240px] mx-auto 2xl:w-auto xl:w-[10%] lg:w-[10%] md:w-[20%] w-[18%]' src={cardImage} alt="image" />
+              <img className='2xl:ml-[240px] xl:ml-[182px] lg:ml-[140px] mx-auto 2xl:w-auto xl:w-[10%] lg:w-[10%] md:w-[20%] w-[18%]' src={cardImage} alt="image" />
 
               <div className='2xl:w-[44%] xl:w-[41%] lg:w-[41%] md:w-[80%] p-[1px] bg-gradient-to-l from-[#F8B515] to-[#0FC1C7] lg:mx-0 md:mx-auto rounded-[30px] w-fit'>
                 <div className='bg-[#18534f] 2xl:p-[40px] xl:p-[30px] lg:p-[20px] rounded-[30px] md:p-[30px] p-[20px]'>
@@ -93,9 +93,9 @@ const HowToBuy = () => {
 
 
             {/* ----------- card 4 --------- */}
-            <div className='2xl:mt-[-170px] xl:mt-[-170px] lg:mt-[-190px] md:mt-[50px] mt-[40px] 2xl:ml-[860px] xl:ml-[660px] lg:ml-[520px] 2xl:space-y-[-10px] xl:space-y-[-10px] lg:space-y-[-10px]' data-aos="fade-up"
+            <div className='2xl:mt-[-170px] xl:mt-[-130px] lg:mt-[-110px] md:mt-[50px] mt-[40px] 2xl:ml-[860px] xl:ml-[660px] lg:ml-[520px] 2xl:space-y-[-10px] xl:space-y-[-10px] lg:space-y-[-10px]' data-aos="fade-up"
               data-aos-duration="2400">
-              <img className='2xl:ml-[240px] xl:ml-[240px] lg:ml-[240px] mx-auto 2xl:w-auto xl:w-auto lg:w-auto md:w-[20%] w-[18%]' src={cardImage} alt="image" />
+              <img className='2xl:ml-[240px] xl:ml-[180px] lg:ml-[140px] mx-auto 2xl:w-auto xl:w-[25%] lg:w-[25%] md:w-[20%] w-[18%]' src={cardImage} alt="image" />
 
               <div className='2xl:w-[100%] xl:w-[99%] lg:w-[99%] md:w-[80%] p-[1px] bg-gradient-to-l from-[#F8B515] to-[#0FC1C7] lg:mx-0 md:mx-auto rounded-[30px] w-fit'>
                 <div className='bg-[#18534f] 2xl:p-[40px] xl:p-[30px] lg:p-[20px] rounded-[30px] md:p-[30px] p-[20px]'>
