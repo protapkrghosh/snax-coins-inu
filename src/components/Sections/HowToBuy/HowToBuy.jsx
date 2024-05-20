@@ -5,10 +5,11 @@ import claud from '@/assets/meme-Ge4nerator/Group 1171275247.png';
 import cardImage from '@/assets/howToBuy/logo_short_no_bg_square.png';
 import cardImageShadow from '@/assets/howToBuy/Group 1171275247.png';
 import howToTree from '@/assets/howToBuy/Group 1171275261.png';
+import cloudShadowimg from '@/assets/howToBuy/Group.png';
 
 const HowToBuy = () => {
   return (
-    <div className='2xl:mt-[248px] xl:mt-[220px] lg:mt-[160px] md:mt-[90px] mt-[60px] 2xl:mb-[170px]'>
+    <div className='2xl:mt-[248px] xl:mt-[220px] lg:mt-[160px] md:mt-[90px] mt-[60px] 2xl:mb-[170px] xl:mb-[110px] lg:mb-[90px] md:mb-[70px] mb-[40px]'>
       <div className='relative'>
         <Container>
 
@@ -116,7 +117,7 @@ const HowToBuy = () => {
             </div>
 
 
-
+            <img className='hidden lg:block absolute 2xl:mt-[-120px] xl:mt-[-120px] lg:mt-[-100px] 2xl:ml-[-280px] xl:ml-[-140px] lg:ml-[-100px] 2xl:w-auto xl:w-[30%] lg:w-[25%]' src={cloudShadowimg} alt="image" />
 
 
 
