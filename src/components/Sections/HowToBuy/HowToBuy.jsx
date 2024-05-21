@@ -8,7 +8,7 @@ import cloudShadowimg from '@/assets/howToBuy/Group.png';
 
 const HowToBuy = () => {
   return (
-    <div className='2xl:mt-[248px] xl:mt-[220px] lg:mt-[160px] md:mt-[90px] mt-[60px] 2xl:mb-[170px] xl:mb-[110px] lg:mb-[90px] md:mb-[70px] mb-[40px]'>
+    <div className='2xl:mt-[248px] xl:mt-[220px] lg:mt-[160px] md:mt-[90px] mt-[60px] 2xl:mb-[170px] xl:mb-[110px] lg:mb-[90px] md:mb-[70px] mb-[40px]' id='buy'>
       <div className='relative'>
         <Container>
 
