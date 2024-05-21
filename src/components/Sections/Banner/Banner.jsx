@@ -32,8 +32,8 @@ const Banner = () => {
   return (
     <div className="mt-[-80px] relative" id="home">
       <div>
-        <img src={bgImg} alt="Image" className="h-[600px] md:h-[800px] lg:h-[150vh] xl:h-[155vh] 2xl:h-[140vh] w-full" />
-        <div className="mt-[-500px] md:mt-[-700px] lg:mt-[-750px] xl:mt-[-950px] 2xl:mt-[-1100px]">
+        <img src={bgImg} alt="Image" className="h-[640px] md:h-[800px] lg:h-[150vh] xl:h-[155vh] 2xl:h-[140vh] w-full" />
+        <div className="mt-[-540px] md:mt-[-700px] lg:mt-[-750px] xl:mt-[-950px] 2xl:mt-[-1100px]">
           <Container>
             <div>
               <div className="text-center">
@@ -47,7 +47,7 @@ const Banner = () => {
 
 
               {/* Copied tokens */}
-              <div className="mt-[185px] md:mt-[290px] lg:mt-[340px] xl:mt-[445px]  2xl:mt-[490px]">
+              <div className="mt-[205px] md:mt-[290px] lg:mt-[340px] xl:mt-[445px]  2xl:mt-[490px]">
                 <div className='mt-[30px] flex justify-center'>
                   <div className="bg-gradient-to-l to-[#1cb4b2] from-[#c9af31] p-[1px] rounded-md" data-aos="fade-up"
                     data-aos-duration="2000">
