@@ -27,11 +27,11 @@ const AboutOrFeatures = () => {
 
             
             {/* --------------- about contain info section ------------- */}
-            <div className='2xl:w-[52%] xl:w-[55%] lg:w-[55%] lg:mt-0 md:mt-[60px] mt-[30px]'>
+            <div className='2xl:w-[52%] xl:w-[55%] lg:w-[55%] lg:mt-0 md:mt-[100px] mt-[70px]'>
               {/* about contain section shadow */}
-              <img className='absolute 2xl:w-[30%] xl:w-[38%] lg:w-[40%] md:w-[40%] w-[40%] 2xl:top-[-240px] xl:top-[-220px] lg:top-[-180px] md:top-[-180px] top-[-80px] 2xl:right-[570px] xl:right-[360px] lg:right-[270px] md:right-[20px] right-[5px]' src={aboutImgRightShadow} alt="image" />
+              <img className='absolute 2xl:w-[30%] xl:w-[38%] lg:w-[40%] md:w-[40%] w-[55%] 2xl:top-[-240px] xl:top-[-220px] lg:top-[-180px] md:top-[350px] top-[330px] 2xl:right-[570px] xl:right-[360px] lg:right-[270px] md:right-[520px] right-[220px]' src={aboutImgRightShadow} alt="image" />
 
-              <div className='border-[3px] border-dashed rounded-[30px] xl:pl-[50px] lg:pl-[40px] md:pl-[30px] 2xl:pr-[0px] xl:pr-[11px] lg:pr-[11px] md:p-[0px] p-[10px]'>
+              <div className='border-[2px] lg:border-[3px] border-dashed rounded-[30px] xl:pl-[50px] lg:pl-[40px] md:pl-[30px] 2xl:pr-[0px] xl:pr-[11px] lg:pr-[11px] md:p-[0px] p-[10px]'>
                 <div>
                   <p className='xl:mt-[60px] lg:mt-[40px] md:mt-[25px] mt-[20px] text-[#FFF] xl:text-[80px] lg:text-[65px] md:text-[35px] text-[25px] lg:leading-[80px] lg:tracking-[2.4px] lg:text-start text-center' data-aos="fade-up"
                     data-aos-duration="900">About <span className='bg-clip-text text-transparent bg-gradient-to-l from-[#F8B515] to-[#0FC1C7]' data-aos="fade-up"
