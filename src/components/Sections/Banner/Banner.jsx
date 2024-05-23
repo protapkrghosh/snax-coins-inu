@@ -33,7 +33,12 @@ const Banner = () => {
     <div className="mt-[-80px] relative" id="home">
       <div>
         <img src={bgImg} alt="Image" className="h-[640px] md:h-[800px] lg:h-[150vh] xl:h-[155vh] 2xl:h-[140vh] w-full" />
+
+        {/* Shadow blur */}
+        <div className='w-full h-8 bg-[#194C47] absolute -bottom-[23px] md:-bottom-[148px] lg:-bottom-[163px] xl:-bottom-[195px] 2xl:-bottom-[230px] blur-[4px]' />
+
         <div className="mt-[-540px] md:mt-[-700px] lg:mt-[-750px] xl:mt-[-950px] 2xl:mt-[-1100px]">
+
           <Container>
             <div>
               <div className="text-center">
